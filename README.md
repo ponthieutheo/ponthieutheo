@@ -9,7 +9,7 @@
 
 [![Pentest](https://img.shields.io/badge/Pentest-web%20%26%20applicatif-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
 [![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-actif-2EA043?style=for-the-badge&logo=bugcrowd&logoColor=white)](#)
-[![7way.studio](https://img.shields.io/badge/7way.studio-Dev%20web-6E40C9?style=for-the-badge&logo=react&logoColor=white)](https://7way.studio)
+[![Full-Stack](https://img.shields.io/badge/Full--Stack-Next.js%20%C2%B7%20React%20%C2%B7%20TS-6E40C9?style=for-the-badge&logo=react&logoColor=white)](#)
 
 📍 France · Freelance & sous-traitance ESN · **Disponible**
 
@@ -27,14 +27,14 @@ Pentester **et** développeur — je sécurise ce que je sais aussi construire.
 | 🔓 | **Test d'intrusion** — web & applicatif, exploitation réelle (pas du simple scan) |
 | 🛡️ | **Audit de sécurité** — rapport professionnel, remédiation priorisée par criticité |
 | 🐛 | **Bug Bounty** — recherche et reporting de vulnérabilités |
-| 💻 | **Développement web** — sites & applications sur-mesure via [7way.studio](https://7way.studio) |
+| 💻 | **Développement web** — sites & applications full-stack sur-mesure (Next.js · React · TypeScript) |
 
 ### 🏆 Réalisations
 
 - ✅ Premier audit de sécurité livré pour une **société de production audiovisuelle** *(rapport confidentiel)*
 - 🐛 Bug bounty actif sur **YesWeHack**
 - 🛠️ Arsenal offensif outillé + **scanners maison** (GraphQL, IDOR, SSRF, OAuth, race conditions, LLM)
-- 🚀 Sites & applications web livrés en production via **7way.studio**
+- 🚀 **Dev full-stack du site e-commerce [7way.studio](https://7way.studio)** *(mission client)* — Next.js · Stripe · Supabase · Cloudflare R2
 
 ### 🧰 Stack & outils
 
@@ -80,8 +80,8 @@ Pentester **et** développeur — je sécurise ce que je sais aussi construire.
 
 Audit, test d'intrusion, bug bounty ou développement web — je réponds vite et je livre du concret.
 
-[![Site](https://img.shields.io/badge/7way.studio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://7way.studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponthieutheo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/delgalisateur)
 
 ---
 
