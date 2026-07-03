@@ -20,7 +20,8 @@
 ### 🎯 Ce que je fais
 
 J'identifie et corrige les vulnérabilités des applications web **avant** qu'un attaquant ne les exploite.<br/>
-Pentester **et** développeur — je sécurise ce que je sais aussi construire.
+Pentester **et** développeur — je sécurise ce que je sais aussi construire.<br/>
+En sécurité offensive depuis 2019, freelance depuis 2021.
 
 | | Prestation |
 |:--:|:--|
@@ -31,7 +32,7 @@ Pentester **et** développeur — je sécurise ce que je sais aussi construire.
 
 ### 🏆 Réalisations
 
-- ✅ Premier audit de sécurité livré pour une **société de production audiovisuelle** *(rapport confidentiel)*
+- ✅ Audit de sécurité pour une **société de production audiovisuelle** : vulnérabilités **critique (CVSS 9.0)** et **élevée (CVSS 8.5)** identifiées, remédiation priorisée *(rapport confidentiel)*
 - 🐛 Bug bounty actif sur **YesWeHack**
 - 🛠️ Arsenal offensif outillé + **scanners maison** (GraphQL, IDOR, SSRF, OAuth, race conditions, LLM)
 - 🚀 **Dev full-stack du site e-commerce [7way.studio](https://7way.studio)** *(mission client)* — Next.js · Stripe · Supabase · Cloudflare R2
@@ -57,7 +58,7 @@ Pentester **et** développeur — je sécurise ce que je sais aussi construire.
 | **Scanners maison** 🛠️ | GraphQL · IDOR · SSRF · OAuth · Race conditions · Subdomain takeover · LLM / prompt injection |
 | **Secrets & code** | `trufflehog` · `gitleaks` · SAST |
 | **Reverse & forensics** | `Ghidra` · `radare2` · `Wireshark` · `Volatility3` · `scapy` |
-| **Plateforme & infra** | Kali Linux · YesWeHack · Tor / proxychains · pipeline d'automatisation |
+| **Plateforme & infra** | Kali Linux · YesWeHack · pipeline d'automatisation |
 
 **🟢 Développement web**
 
@@ -81,7 +82,7 @@ Pentester **et** développeur — je sécurise ce que je sais aussi construire.
 Audit, test d'intrusion, bug bounty ou développement web — je réponds vite et je livre du concret.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponthieutheo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/delgalisateur)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ponthieutheo)
 
 ---
 
