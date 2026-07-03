@@ -32,7 +32,9 @@ En sécurité offensive depuis 2019, freelance depuis 2021.
 
 ### 🏆 Réalisations
 
-- ✅ Audit de sécurité pour une **société de production audiovisuelle** : vulnérabilités **critique (CVSS 9.0)** et **élevée (CVSS 8.5)** identifiées, remédiation priorisée *(rapport confidentiel)*
+- ✅ Audit de sécurité pour une **société de production audiovisuelle** : vulnérabilités **critique (CVSS 9.0)** et **élevée (CVSS 8.5)** identifiées via **chaînage de failles**, remédiation priorisée *(rapport confidentiel)*
+- 🧠 Spécialité **failles de logique métier & chaînage de vulnérabilités** (auth bypass, IDOR, race conditions) — au-delà du scan automatisé
+- 🔄 Double compétence **pentest + développement full-stack** : je comprends le code derrière la faille (RLS, secrets CI/CD, config cloud)
 - 🐛 Bug bounty actif sur **YesWeHack**
 - 🛠️ Arsenal offensif outillé + **scanners maison** (GraphQL, IDOR, SSRF, OAuth, race conditions, LLM)
 - 🚀 **Dev full-stack du site e-commerce [7way.studio](https://7way.studio)** *(mission client)* — Next.js · Stripe · Supabase · Cloudflare R2
@@ -54,7 +56,7 @@ En sécurité offensive depuis 2019, freelance depuis 2021.
 |:--|:--|
 | **Recon & énumération** | `subfinder` `httpx` `katana` `naabu` `dnsx` `asnmap` `tlsx` `waybackurls` `gau` `hakrawler` `masscan` `nmap` |
 | **Fuzzing & discovery** | `ffuf` `gobuster` `wfuzz` `arjun` `wpscan` |
-| **Scan & exploitation** | `nuclei` *(12k+ templates)* · `nikto` · `sqlmap` · `Burp Suite` · `hydra` · `hashcat` |
+| **Scan & exploitation** | `nuclei` · `nikto` · `sqlmap` · `Burp Suite` · `hydra` · `hashcat` |
 | **Scanners maison** 🛠️ | GraphQL · IDOR · SSRF · OAuth · Race conditions · Subdomain takeover · LLM / prompt injection |
 | **Secrets & code** | `trufflehog` · `gitleaks` · SAST |
 | **Reverse & forensics** | `Ghidra` · `radare2` · `Wireshark` · `Volatility3` · `scapy` |
@@ -76,6 +78,8 @@ En sécurité offensive depuis 2019, freelance depuis 2021.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Au-delà du code :** architecture & choix techniques adaptés au produit · tests unitaires/intégration · CI/CD (GitHub Actions) · revue de code · monitoring & observabilité · workflow augmenté à l'IA (Claude Code) pour livrer plus vite sans sacrifier la qualité.
 
 ### 🤝 Travaillons ensemble
 
